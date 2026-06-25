@@ -19,12 +19,11 @@ WHERE store_location IS NULL;
 
 
 
-UrbanStyle kasutab kahekanalilist (dual-channel) lähenemist, kombineerides e-kaubanduse ja füüsiliste kaupluste eeliseid
-E-pood (urbanstyle.ee): See on meie peamine tulukanal, moodustades ligikaudu 60% ettevõtte kogukäibest Veebimüük tagab kättesaadavuse üle Eesti 24/7
-Füüsilised kauplused: Poed toovad umbes 40% käibest ning asuvad kolmes strateegilises asukohas: Tallinnas (Rotermanni kvartal), Tartus (Tasku keskus) ja Pärnus (Port Artur)
+UrbanStyle kasutab kahekanalilist lähenemist, kombineerides e-kaubanduse ja füüsiliste kaupluste eeliseid
+E-pood: See on meie peamine tulukanal, moodustades ligikaudu 60% ettevõtte kogukäibest Veebimüük tagab kättesaadavuse üle Eesti 24/7
+Füüsilised kauplused: Poed toovad umbes 40% käibest ning asuvad kolmes strateegilises asukohas: Tallinnas, Tartus ja Pärnus
 Maksevõimalused: Pakume klientidele paindlikke ja turvalisi lahendusi:
 Pangakaardimaksed nii veebis kui ka kauplustes.
 Sularahamakse võimalus füüsilistes poodides.
 Järelmaks, mis võimaldab suuremaid oste ajas hajutada ja muudab kvaliteetse moe kättesaadavamaks.
 Andmete omapära: Oluline on arvestada, et veebipoe müügiandmetes puudub asukohainfo (andmebaasis märgitud kui NULL)
-See on äriliselt loogiline, kuna e-poe tehingud ei ole seotud konkreetse füüsilise kauplusega
