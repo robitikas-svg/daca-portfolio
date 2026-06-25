@@ -24,3 +24,4 @@ E-pood (urbanstyle.ee): See on ettevõtte põhiline tulukanal, mis moodustab umb
 -Füüsilised kauplused: Poed toovad ligikaudu 40% käibest, meie poed asuvad Tallinnas. Tartus ja Pärnus.
 
 Klientidele on võimaldatud turvalisi pangakaardimakseid nii veebis kui kauplustes, sularahamakse võimalust füüsilistes asukohtades ning paindlikku järelmaksu
+Veebipoe müügitel ei tuvastata asukohta
