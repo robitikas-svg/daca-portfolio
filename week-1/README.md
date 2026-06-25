@@ -19,8 +19,8 @@ WHERE store_location IS NULL;
 
 
 
-Kahekanaliline lähenemine: UrbanStyle kasutab nii e-poodi kui ka füüsilisi kauplusi, et jõuda oma sihtrühmani
+-Kahekanaliline lähenemine: UrbanStyle kasutab nii e-poodi kui ka füüsilisi kauplusi, et jõuda oma sihtrühmani
 E-pood (urbanstyle.ee): See on ettevõtte põhiline tulukanal, mis moodustab umbes 60% käibest
-Füüsilised kauplused: Poed toovad ligikaudu 40% käibest, meie poed asuvad Tallinnas. Tartus ja Pärnus.
+-Füüsilised kauplused: Poed toovad ligikaudu 40% käibest, meie poed asuvad Tallinnas. Tartus ja Pärnus.
 
-Klientidel on võimalik turvalisi pangakaardimakseid nii veebis kui kauplustes, sularahamakse võimalust füüsilistes asukohtades ning paindlikku järelmaksu
+Klientidele on võimaldatud turvalisi pangakaardimakseid nii veebis kui kauplustes, sularahamakse võimalust füüsilistes asukohtades ning paindlikku järelmaksu
