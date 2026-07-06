@@ -68,4 +68,8 @@ GROUP BY p.category
 ORDER BY muumata_toodete_arv DESC;
 
 
----
+---Meeskonna töö:
+UrbanStyle’i parimad kliendid on peamiselt Tallinnast pärit ja kuuluvad lojaalsusprogrammi Gold-tasemele, mis kinnitab, et meie praegune preemiasüsteem töötab efektiivselt
+Enim müüke ja suurim kogutulu pärineb Tallinna kauplusest ja sealselt kliendibaasilt, kuigi Tartu kliendid näitavad samuti tugevat potentsiaali
+Kõige kasumlikum segment on ootuspäraselt Gold-tase, kuhu on koondunud meie kõige lojaalsemad ja suurema ostukorviga kliendid
+See analüüs annab meile selge aluse suunata järgmine kampaania just Tallinna piirkonna VIP-klientidele.
