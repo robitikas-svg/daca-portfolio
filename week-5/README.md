@@ -20,3 +20,5 @@ GROUP BY p.category
 ORDER BY kogus DESC;
 
 
+Liis, Tallinn moodustab 37% müügist. Laoseisud näitavad, et meeste riiete kategoorias on hetkel suurim kapitali seotus, kuid aksessuaaride varud on müügimahuga võrreldes kriitiliselt madalad ning Tartu poe andmed vajavad tuvastatud ebakõlade tõttu kohest füüsilist ülekontrolli
+
