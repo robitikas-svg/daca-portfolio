@@ -1,3 +1,15 @@
+--- PUHASTUSRAPORT ---
+Algne ridade arv: 15234
+Eemaldatud duplikaate (invoice_id): 5116
+Eemaldatud erindeid (total_price): 677
+Õige andmevahemik: 2023-01-01 00:00:00 kuni 2026-06-28 00:00:00
+Lõplik ridade arv (valmis RFM jaoks): 9441
+
+Parandatud fail 'df_cleaned_roll_B.csv' edukalt eksporditud!
+
+
+
+
 # Nädal 7: grupitöö:
 
 1.Duplikaatide eemaldamine:
