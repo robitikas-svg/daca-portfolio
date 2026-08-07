@@ -19,10 +19,10 @@ import pandas as pd
 df = pd.read_csv('df_merged_roll_A_loplik.csv')
 initial_rows = len(df)
 
---# 2. Eemalda puuduvate väärtustega read (Liisi nõue)
+--# 2. Eemalda puuduvate väärtustega read
 df = df.dropna(subset=['customer_id', 'sale_date', 'total_price']).copy()
 
---# 3. Jäta alles vaid positiivsed tehingusummad (Liisi nõue)
+--# 3. Jäta alles vaid positiivsed tehingusummad
 df = df[df['total_price'] > 0].copy()
 
 --# 4. Eemalda duplikaadid (invoice_id järgi)
