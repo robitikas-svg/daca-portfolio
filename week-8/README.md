@@ -7,7 +7,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-# 1. Funktsioon nädalaste tululiikumiste joondiagrammi loomiseks
+---# 1. Funktsioon nädalaste tululiikumiste joondiagrammi loomiseks
 def create_weekly_chart(df_weekly):
     if df_weekly is None or df_weekly.empty:
         return None
@@ -20,7 +20,7 @@ def create_weekly_chart(df_weekly):
     return fig
 
 
-# 2. Funktsioon KPI indikaatorite kaardi/koondvaate loomiseks
+---# 2. Funktsioon KPI indikaatorite kaardi/koondvaate loomiseks
 def create_kpi_summary(kpis):
     if not kpis:
         return None
@@ -57,7 +57,7 @@ def create_kpi_summary(kpis):
     return fig
 
 
-# 3. Funktsioon tulemuste eksportimiseks (CSV + HTML)
+---# 3. Funktsioon tulemuste eksportimiseks (CSV + HTML)
 def export_results(df, output_dir='output', fig_weekly=None, fig_kpi=None):
     # Loo output/ kaust, kui seda ei eksisteeri
     os.makedirs(output_dir, exist_ok=True)
@@ -83,7 +83,7 @@ def export_results(df, output_dir='output', fig_weekly=None, fig_kpi=None):
         print(f"KPI diagramm salvestatud: {html_kpi}")
 
 
-# 4. Testimine näidisandmetega
+---# 4. Testimine näidisandmetega
 if __name__ == '__main__':
     df_weekly_test = pd.DataFrame({
         'week': ['Nädal 1', 'Nädal 2'],
