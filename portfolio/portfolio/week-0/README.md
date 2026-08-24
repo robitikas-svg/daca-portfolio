@@ -86,20 +86,20 @@ Tegevused & Õppetunnid: Vaatasin turgu tööandja silmade läbi
 
 
 
-
+#Kokkuvõtteks:
 **Minu loodud äriline väärtus (UrbanStyle näitel)**
 Minu loodud andmelahendused ei olnud pelgalt tehnilised harjutused, vaid neil oli reaalne äriline mõju:
 
 **VIP-klientide tuvastamine**: Tuvastasin andmetest 245 VIP-klienti, kes on brändi mootoriks ja genereerivad ebaproportsionaalselt suure osa käibest
 
-.
+
 **Aja kokkuhoid**: Säästsin meeskonna käsitööd u 4 tundi nädalas (üle 200 tunni aastas), automatiseerides iganädalase kliendisegmenteerimise
 
-.
+
 **Kadude ennetamine**: Lõin Liisile KPI-monitooringu, mis tuvastas Tartu poe varude anomaaliad, hoides ära potentsiaalsed müügikaotused
 
-.
+
 **Turunduse optimeerimine**: Tõestasin Anna kampaaniate põhjal Facebook-müügi 3.2x ROI (tasuvuse), mis aitas Kristil kindlustada investorite usalduse
 
-.
+
 See terviklik kogemus on teinud minust mitmekülgse juunior-andmeanalüütiku, kes suudab astuda andmekaosest andmepõhiste strateegiliste otsuste ja tootmiskõlbliku automatiseerimiseni.
