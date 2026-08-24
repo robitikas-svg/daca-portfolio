@@ -86,7 +86,8 @@ Tegevused & Õppetunnid: Vaatasin turgu tööandja silmade läbi
 
 
 
-#Kokkuvõtteks:
+# Kokkuvõtteks
+
 **Minu loodud äriline väärtus (UrbanStyle näitel)**
 Minu loodud andmelahendused ei olnud pelgalt tehnilised harjutused, vaid neil oli reaalne äriline mõju:
 
