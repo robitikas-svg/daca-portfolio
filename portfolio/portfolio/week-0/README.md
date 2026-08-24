@@ -1,3 +1,3 @@
 #Robi Tikas
 
-Junior Data Analyst | SQL (PostgreSQL) • Python • Power BI
+**Junior Data Analyst** | SQL (PostgreSQL) • Python • Power BI
