@@ -88,9 +88,8 @@ Tegevused & Õppetunnid: Vaatasin turgu tööandja silmade läbi
 
 # Kokkuvõtteks
 
-**Minu loodud äriline väärtus (UrbanStyle näitel)**
 
-Minu loodud andmelahendused ei olnud pelgalt tehnilised harjutused, vaid neil oli reaalne äriline mõju:
+**Minu loodud andmelahendused ei olnud pelgalt tehnilised harjutused, vaid neil oli reaalne äriline mõju**:
 
 **VIP-klientide tuvastamine**: Tuvastasin andmetest 245 VIP-klienti, kes on brändi mootoriks ja genereerivad ebaproportsionaalselt suure osa käibest
 
