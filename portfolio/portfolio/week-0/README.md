@@ -1,9 +1,9 @@
-# Robi Tikas
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fc83bc5e-a92f-417c-b847-6be94f916113" /># Robi Tikas
 
 **Junior Data Analyst | SQL, Python, Power BI | Turning Data into Business Insights
 
-[Email](Robi.tikas@gmail.com)  [LinkedIn](https://www.linkedin.com/in/robi-tikas-57748a239/)
-[Portfolio/GitHub](https://github.com/robitikas-svg/daca-portfolio)
+📧[Email](Robi.tikas@gmail.com) 🔗[LinkedIn](https://www.linkedin.com/in/robi-tikas-57748a239/) 
+💼[Portfolio/GitHub](https://github.com/robitikas-svg/daca-portfolio)
  
  **Asukoht**: Eesti
 
