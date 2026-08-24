@@ -11,10 +11,10 @@
 # Minu tehnilised oskused (Technical Stack)
 **Andmebaasid ja päringukeeled**: SQL (PostgreSQL, pilveplatvorm Supabase)
 .
-Andmetöötlus ja koodipõhine analüüs: Python (pandas ja numpy teegid, Jupyter Notebooks)
+**Andmetöötlus ja koodipõhine analüüs**: Python (pandas ja numpy teegid, Jupyter Notebooks)
 .
-Visualiseerimine ja ärianalüütika (BI): Power BI (Track A) või Plotly + Streamlit (Track B), Miro kollaboratsioonitööriist
+**Visualiseerimine ja ärianalüütika (BI)**: Power BI (Track A) või Plotly + Streamlit (Track B), Miro kollaboratsioonitööriist
 .
-Versioonihaldus ja meeskonnatöö: Git ja GitHub
+**Versioonihaldus ja meeskonnatöö: Git ja GitHub
 .
-Automatiseerimine ja süsteemid: Supabase API, ETL-pipeline'id, veakäsitlus, logimine ja GitHub Actions
+**Automatiseerimine ja süsteemid**: Supabase API, ETL-pipeline'id, veakäsitlus, logimine ja GitHub Actions
