@@ -2,7 +2,7 @@
 
 **Junior Data Analyst | SQL, Python, Power BI | Turning Data into Business Insights
 
-[Email](Robi.tikas@gmail.com)  [LinkedIn]
+[Email](Robi.tikas@gmail.com)  [LinkedIn](https://www.linkedin.com/in/robi-tikas-57748a239/)
 [Portfolio/GitHub](https://github.com/robitikas-svg/daca-portfolio)
  
  **Asukoht**: Eesti
