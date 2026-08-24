@@ -1,6 +1,6 @@
 # Robi Tikas
 
-**Junior Data Analyst** | SQL (PostgreSQL) • Python • Power BI
+**Junior Data Analyst | SQL, Python, Power BI | Turning Data into Business Insights
 
 📧 **Email:** Robi.tikas@gmail.com  💼 **LinkedIn**:
 **Portfolio/GitHub**: https://github.com/robitikas-svg/daca-portfolio
